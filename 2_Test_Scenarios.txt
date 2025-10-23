@@ -1,0 +1,10 @@
+Scenario ID	Module	Scenario Description
+TS001	Login	Verify login with valid credentials
+TS002	Login	Verify login with invalid credentials
+TS003	Search	Verify product search using keywords
+TS004	Cart	Verify cart updates correctly after adding items
+TS005	Checkout	Verify successful order placement
+TS006	Checkout	Verify invalid card payment failure
+TS007	Admin	Verify only admin can add products
+TS008	Order	Verify order history displays all past orders
+TS009	Profile	Verify profile update functionality

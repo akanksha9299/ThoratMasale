@@ -1,0 +1,14 @@
+Requirements and Test Plan for Thorat Masale Project
+Author: Akanksha M
+Experience: 2.5 Years
+
+Modules: Login, Search, Cart, Checkout, Admin
+In Scope: Functional Testing
+Out of Scope: Performance, Security, DB, Mobile
+
+Objectives:
+- Verify all user and admin functionalities
+- Ensure UI and functional flows work correctly
+- Document bugs in Bug Report
+
+Environment: Chrome Browser, Postman, Excel for test cases, JIRA for bug tracking
