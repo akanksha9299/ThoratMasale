@@ -1,4 +1,0 @@
-Bug ID	Module	Description	Severity	Priority	Status	Screenshot
-BUG001	Checkout	Payment gateway not redirecting	Critical	High	Open	Checkout_Error.png
-BUG002	Cart	Remove button not working	Major	High	Verified	Cart_Total_Mismatch.png
-BUG003	Search	No results for partial keyword	Major	Medium	Fixed	Search_Result.png
